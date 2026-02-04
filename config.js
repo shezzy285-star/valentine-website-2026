@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Yiga la",
+    valentineName: "🎀♥️Yiga la♥️🎀",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        bears: ['🧸', '🐻', '🙈', '🥰']                        // Cute bear emojis
     },
 
     // Questions and answers
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Thank you for being my Valentines!!! I will pick you up at 5:30pm for a surpise concert and a romantic dinner date!  I love you!❤️ ",
+        title: "Yay! I'm the luckiest man in the world! 🎉💝💖💝💓",
+        message: "Thank you for being my Valentine!!! Be ready at 5:30pm. I have a surpise activity and a romantic dinner date!  I love you!❤️ ",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
